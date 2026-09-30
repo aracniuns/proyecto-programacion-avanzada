@@ -23,3 +23,4 @@ Personaje: pipe | Puntaje: 400 | Resultado: GANO
 Personaje: asd | Puntaje: 220 | Resultado: GANO
 Personaje: Miguel | Puntaje: 310 | Resultado: GANO
 >>>>>>> 8d68027c98f3f1badbfe5712710e7493cdef6729
+Personaje: 1000 | Puntaje: 300 | Resultado: GANO

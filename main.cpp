@@ -25,10 +25,12 @@ void semilla(const Juego &j, char *sem)
             continue;
         }
 
-        for (; cnt > 26; cnt -= 26)
-            *p++ = 'z';
         if (cnt > 0)
         {
+            int nz = (cnt - 1) / 26;
+            for (int k = 0; k < nz; k++)
+                *p++ = 'z';
+            cnt = cnt - nz * 26;
             if (cnt >= 10)
                 *p++ = (char)('0' + cnt / 10);
             *p++ = (char)('0' + cnt % 10);
