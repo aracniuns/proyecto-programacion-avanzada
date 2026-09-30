@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Personaje: Gandalf | Puntaje: 320 | Resultado: GANO
 Personaje: lucas | Puntaje: 290 | Resultado: GANO
 Personaje: lucas | Puntaje: 120 | Resultado: PERDIO
@@ -9,3 +10,16 @@ Personaje: muerto | Puntaje: 100 | Resultado: PERDIO
 Personaje: pipe | Puntaje: 400 | Resultado: GANO
 Personaje: asd | Puntaje: 220 | Resultado: GANO
 Personaje: Miguel | Puntaje: 310 | Resultado: GANO
+=======
+Personaje: Gandalf | Puntaje: 320 | Resultado: GANO
+Personaje: lucas | Puntaje: 290 | Resultado: GANO
+Personaje: lucas | Puntaje: 120 | Resultado: PERDIO
+Personaje: 30 | Puntaje: 280 | Resultado: GANO
+Personaje: camilo | Puntaje: 400 | Resultado: GANO
+Personaje: tesprero | Puntaje: 560 | Resultado: GANO
+Personaje: jun | Puntaje: 1235 | Resultado: GANO
+Personaje: muerto | Puntaje: 100 | Resultado: PERDIO
+Personaje: pipe | Puntaje: 400 | Resultado: GANO
+Personaje: asd | Puntaje: 220 | Resultado: GANO
+Personaje: Miguel | Puntaje: 310 | Resultado: GANO
+>>>>>>> 8d68027c98f3f1badbfe5712710e7493cdef6729

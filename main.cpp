@@ -56,7 +56,6 @@ void semilla(const Juego &j, char *sem)
             if (s == 'J')
                 *p++ = 'E';
         }
-        1
     }
     *p = '\0';
 }
@@ -80,7 +79,6 @@ int main(int argc, char *argv[])
     bool seek = (arg[0] == 's' && arg[1] == 'e' && arg[2] == 'e' && arg[3] == 'k' && arg[4] == '\0');
     bool attack = (arg[0] == 'a' && arg[1] == 't' && arg[2] == 't' && arg[3] == 'a' && arg[4] == 'c' && arg[5] == 'k' && arg[6] == '\0');
     bool seed = (arg[0] == 's' && arg[1] == 'e' && arg[2] == 'e' && arg[3] == 'd' && arg[4] == '\0');
-
     Juego j;
 
     if (start)
